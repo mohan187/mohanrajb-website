@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/marketing-site/index.html" },
+    { "source": "/resume", "destination": "/marketing-site/resume/index.html" },
+    { "source": "/portfolio", "destination": "/marketing-site/portfolio/index.html" },
+    { "source": "/blog", "destination": "/marketing-site/blog/index.html" },
+    { "source": "/contact", "destination": "/marketing-site/contact/index.html" },
+    { "source": "/styles/:path*", "destination": "/marketing-site/styles/:path*" },
+    { "source": "/scripts/:path*", "destination": "/marketing-site/scripts/:path*" },
+    { "source": "/assets/:path*", "destination": "/marketing-site/assets/:path*" }
+  ]
+}
