@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/pages/index.html" },
+    { "source": "/resume", "destination": "/pages/resume.html" },
+    { "source": "/portfolio", "destination": "/pages/portfolio.html" },
+    { "source": "/blog", "destination": "/pages/blog.html" },
+    { "source": "/contact", "destination": "/pages/contact.html" }
+  ]
+}

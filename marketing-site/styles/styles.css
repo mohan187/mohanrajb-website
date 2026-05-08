@@ -71,13 +71,13 @@ body.dark-mode {
 
 .bg-shapes.left {
   left: 0;
-  background-image: url("./assets/geo-left.svg");
+  background-image: url("/assets/geo-left.svg");
   background-position: left -0.1rem top 1rem;
 }
 
 .bg-shapes.right {
   right: 0;
-  background-image: url("./assets/geo-right.svg");
+  background-image: url("/assets/geo-right.svg");
   background-position: right -0.1rem top 2.2rem;
 }
 
